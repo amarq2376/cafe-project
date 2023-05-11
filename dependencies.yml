@@ -1,0 +1,8 @@
+name: cafe_project
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - flask
+  - vue
+  - requests
